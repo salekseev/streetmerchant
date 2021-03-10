@@ -173,6 +173,7 @@ Used with the `STORES` variable.
 | Walmart | CA | `walmart-ca`|
 | Wells Technology | AU |  `wellstechnology`|
 | Wipoid | ES | `wipoid`|
+| Zones | US | `zones` |
 | Zotac | US | `zotac`|
 
 ### Micro Center stores

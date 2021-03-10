@@ -142,6 +142,7 @@ import {WalmartCa} from './walmart-ca';
 import {WellsTechnology} from './wellstechnology';
 import {Wipoid} from './wipoid';
 import {Xbox} from './xbox';
+import {Zones} from './zones';
 import {Zotac} from './zotac';
 import {logger} from '../../logger';
 
@@ -288,6 +289,7 @@ export const storeList = new Map([
   [WellsTechnology.name, WellsTechnology],
   [Wipoid.name, Wipoid],
   [Xbox.name, Xbox],
+  [Zones.name, Zones],
   [Zotac.name, Zotac],
 ]);
 
